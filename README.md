@@ -5,7 +5,7 @@ Figure 1
 
 Figure 2
 -----------
-![Figure2](figur/figure2.jpg)
+![Figure2](figure/figure2.jpg)
 
 Figure 3
 -----------
