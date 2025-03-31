@@ -1,24 +1,24 @@
 # 2025-rebuttal
 Figure 1
 -----------
-![Figure1](figures/figure1.jpg)
+![Figure1](figure/figure1.jpg)
 
 Figure 2
 -----------
-![Figure2](figures/figure2.jpg)
+![Figure2](figur/figure2.jpg)
 
 Figure 3
 -----------
-![Figure3](figures/figure3.jpg)
+![Figure3](figure/figure3.jpg)
 
 Figure 4
 -----------
-![Figure4](figures/figure4.jpg)
+![Figure4](figure/figure4.jpg)
 
 Figure 5
 -----------
-![Figure5](figures/figure5.jpg)
+![Figure5](figure/figure5.jpg)
 
 Figure 6
 -----------
-![Figure6](figures/figure6.jpg)
+![Figure6](figure/figure6.jpg)
